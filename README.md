@@ -1,4 +1,4 @@
-# Graph-Search-Algorithms-
+# Graph-Search-Algorithms
 Đồ án: Tìm hiểu và cài đặt các thuật toán tìm kiếm trên đồ thị
 Được thực hiện bởi nhóm học tập Trường Đại học Khoa học Tự nhiên, ĐHQG HCM.
 
